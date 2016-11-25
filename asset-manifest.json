@@ -1,10 +1,10 @@
 {
-  "main.css": "static/css/main.348f4b31.css",
-  "main.css.map": "static/css/main.348f4b31.css.map",
-  "main.js": "static/js/main.cbfe8eba.js",
-  "main.js.map": "static/js/main.cbfe8eba.js.map",
+  "main.css": "static/css/main.5301cd0a.css",
+  "main.css.map": "static/css/main.5301cd0a.css.map",
+  "main.js": "static/js/main.97f042af.js",
+  "main.js.map": "static/js/main.97f042af.js.map",
   "static/media/asana.svg": "static/media/asana.4818eaaf.svg",
+  "static/media/depviz.svg": "static/media/depviz.83828825.svg",
   "static/media/github.svg": "static/media/github.c7d78445.svg",
-  "static/media/gitlab.svg": "static/media/gitlab.732b7c4a.svg",
-  "static/media/react.svg": "static/media/react.5d5d9eef.svg"
+  "static/media/gitlab.svg": "static/media/gitlab.732b7c4a.svg"
 }
